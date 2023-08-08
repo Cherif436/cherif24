@@ -34,7 +34,7 @@ export default function Contact() {
           }
           
           setTimeout(() => {
-            alert("E-mail envoyé avec succès!");
+            alert("Your e-mail has been sent and I will make sure to answer you as soon as possible.");
           }, 2000)
           
         }}>
