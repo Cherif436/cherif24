@@ -69,7 +69,7 @@ export default function Intro() {
         }}>
           Contact me here{" "} <BsArrowRight className="transition opacity-70 group-hover:translate-x-1" />
         </Link>
-        <a className="flex items-center gap-2 py-3 transition bg-white border rounded-full outline-none cursor-pointer hover:bg-sky-200 group px-7 focus:scale-110 hover:scale-110 active:scale-105 border-sky/30 dark:bg-white/10" href="/cvcherifmerzoud1.pdf" download>
+        <a className="flex items-center gap-2 py-3 transition bg-white border rounded-full outline-none cursor-pointer hover:bg-sky-200 group px-7 focus:scale-110 hover:scale-110 active:scale-105 border-sky/30 dark:bg-white/10" href="/cv.pdf" download>
           Download CV{" "}
           <HiDownload className="transition opacity-60 group-hover:translate-y-1" />
         </a>
@@ -146,7 +146,7 @@ export default function Intro() {
                   >                    
                     Send message
                   </button>
-                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded-full shadow outline-none bg-sky-800 dark:bg-gray-900 bg-gradient-to-r active:bg-sky-900 hover:shadow-lg focus:outline-none" href="/cvcherifmerzoud1.pdf" download="CV.pdf"> Download CV</a>
+                  <a className="px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded-full shadow outline-none bg-sky-800 dark:bg-gray-900 bg-gradient-to-r active:bg-sky-900 hover:shadow-lg focus:outline-none" href="/cv.pdf" download="CV.pdf"> Download CV</a>
                 </div>
               </div>
             </div>
