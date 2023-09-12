@@ -119,7 +119,7 @@ export default function Intro() {
                     <p><em>Merzoud</em>  <i>Cherif</i></p>
                     <p><em>mzd.cs@live.fr</em></p>
                     <p><em>+32466400160</em></p>
-                    <p className="flex items-center justify-center space-x-1"><GoLocation onClick={() => setShowModalMaps(true)} className="text-sky-800 animate-pulse hover:text-white" /><em onClick={() => setShowModalMaps(true)} className='animate-pulse'> 8 Groenstraat, Vlezenbeek</em></p>
+                    <p className="flex items-center justify-center space-x-2"><GoLocation onClick={() => setShowModalMaps(true)} className="text-blue-800 animate-pulse" /><em onClick={() => setShowModalMaps(true)} className='animate-pulse'> 8 Groenstraat, Vlezenbeek</em></p>
                     <div className="flex justify-center mt-2 text-sky-800 dark:text-white">
                       <a href="https://github.com/Cherif436" target="_blank" rel="noopener noreferrer">
                         <AiFillGithub className="w-8 h-8 cursor-pointer" />
